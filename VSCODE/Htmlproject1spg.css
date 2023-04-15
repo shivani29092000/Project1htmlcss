@@ -1,0 +1,5 @@
+.food1_image {
+    background: url(food1_image.jpg);
+    background: cover;
+    height: 100vh;
+}
